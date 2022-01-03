@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CarlosGarciaSquare
-- 👀 I’m interested in AI
+- 👀 I’m interested in AI: CNN's, GAN's, Diffusion Models, ...
 - 🌱 I’m currently learning ML and DL techniques into science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me manticoreha@gmail.com
