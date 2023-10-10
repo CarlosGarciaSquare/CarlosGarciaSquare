@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CarlosGarciaSquare
-- 👀 I’m interested in AI: CNN's, GAN's, Diffusion Models, ...
+- 👀 I’m interested in quantum technologies, nanophotonics and AI (CNN's, GAN's, ...)
 - 🌱 I’m currently learning ML and DL techniques into science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on quantum technologies/nanophotonics/material science.
 - 📫 How to reach me manticoreha@gmail.com
 
 <!---
